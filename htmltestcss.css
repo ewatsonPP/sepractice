@@ -1,0 +1,15 @@
+body {
+    font: 16px, arial;
+    line-height: 1.5;
+    color: mediumspringgreen; 
+}
+h3 {
+    font: 13px; color: orangered;
+}
+table {
+    width: 50%;
+    color: palevioletred;
+}
+h3, h4 {
+    color: darkolivegreen;
+}
